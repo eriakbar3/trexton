@@ -1,0 +1,37 @@
+	/*
+  	flaticon-charity icon font: Flaticon
+  	Creation date: 18/04/2017 08:52
+  	*/
+
+@font-face {
+  font-family: "flaticon-charity";
+  src: url("../fonts/flaticons/flaticon-charity.eot");
+  src: url("../fonts/flaticons/flaticon-charityd41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticons/flaticon-charity.woff") format("woff"),
+       url("../fonts/flaticons/flaticon-charity.ttf") format("truetype"),
+       url("../fonts/flaticons/flaticon-charity.svg#flaticon-charity") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-charity";
+    src: url("flaticon-charity.html#flaticon-charity") format("svg");
+  }
+}
+
+[class^="flaticon-charity"]:before, [class*=" flaticon-charity"]:before,
+[class^="flaticon-charity"]:after, [class*=" flaticon-charity"]:after {   
+  font-family: "flaticon-charity";
+  font-style: normal;
+}
+
+.flaticon-charity-charity-2:before { content: "\f100"; }
+.flaticon-charity-charity-1:before { content: "\f101"; }
+.flaticon-charity-school:before { content: "\f102"; }
+.flaticon-charity-reader-3:before { content: "\f103"; }
+.flaticon-charity-reader-2:before { content: "\f104"; }
+.flaticon-charity-charity-education:before { content: "\f105"; }
+.flaticon-charity-scholarship-2:before { content: "\f106"; }
+.flaticon-charity-education:before { content: "\f107"; }
